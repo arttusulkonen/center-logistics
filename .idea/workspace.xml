@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e739e637-2bad-4052-9c73-114522be171e" name="Default Changelist" comment="Create Header + nav menu">
-      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_intro.scss" afterDir="false" />
+    <list default="true" id="e739e637-2bad-4052-9c73-114522be171e" name="Default Changelist" comment="add icons">
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_section.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/style.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/blocks/_intro.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/blocks/_intro.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +100,8 @@
       <workItem from="1619354869503" duration="3797000" />
       <workItem from="1619442962527" duration="269000" />
       <workItem from="1619443258028" duration="4925000" />
-      <workItem from="1619614093039" duration="6385000" />
+      <workItem from="1619614093039" duration="7108000" />
+      <workItem from="1619711890628" duration="2924000" />
     </task>
     <task id="LOCAL-00001" summary="Create new project. &#10;add gulp, and basic folders and files">
       <created>1619354942580</created>
@@ -114,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1619451351374</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Create section intro">
+      <created>1619621354250</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619621354250</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add icons">
+      <created>1619621374936</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619621374936</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +152,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create new project. &#10;add gulp, and basic folders and files" />
     <MESSAGE value="Create Header + nav menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create Header + nav menu" />
+    <MESSAGE value="Create section intro" />
+    <MESSAGE value="add icons" />
+    <option name="LAST_COMMIT_MESSAGE" value="add icons" />
   </component>
 </project>
