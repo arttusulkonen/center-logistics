@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e739e637-2bad-4052-9c73-114522be171e" name="Default Changelist" comment="add section 'mission'">
-      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_news.scss" afterDir="false" />
+    <list default="true" id="e739e637-2bad-4052-9c73-114522be171e" name="Default Changelist" comment="add section 'news'">
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_footer.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/style.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
@@ -106,7 +106,7 @@
       <workItem from="1620290015579" duration="8569000" />
       <workItem from="1620301174301" duration="2351000" />
       <workItem from="1620376670310" duration="1259000" />
-      <workItem from="1620383201324" duration="3009000" />
+      <workItem from="1620383201324" duration="3971000" />
     </task>
     <task id="LOCAL-00001" summary="Create new project. &#10;add gulp, and basic folders and files">
       <created>1619354942580</created>
@@ -171,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620386453109</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add section 'news'">
+      <created>1620390066080</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1620390066080</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +206,7 @@
     <MESSAGE value="add section 'benefits'" />
     <MESSAGE value="add section 'team'" />
     <MESSAGE value="add section 'mission'" />
-    <option name="LAST_COMMIT_MESSAGE" value="add section 'mission'" />
+    <MESSAGE value="add section 'news'" />
+    <option name="LAST_COMMIT_MESSAGE" value="add section 'news'" />
   </component>
 </project>
