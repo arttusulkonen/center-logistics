@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e739e637-2bad-4052-9c73-114522be171e" name="Default Changelist" comment="add new page 'News / blog'">
-      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/text.html" afterDir="false" />
+    <list default="true" id="e739e637-2bad-4052-9c73-114522be171e" name="Default Changelist" comment="add new page 'privacy/policy'">
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_media.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/style.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/text.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/text.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/blocks/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/blocks/_footer.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sass/blocks/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/blocks/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/blocks/_intro.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/blocks/_intro.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/blocks/_main-blog.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/blocks/_main-blog.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/blocks/_section.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/blocks/_section.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/text.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/text.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +114,7 @@
       <workItem from="1620383201324" duration="4037000" />
       <workItem from="1620630497395" duration="413000" />
       <workItem from="1620631017169" duration="9935000" />
-      <workItem from="1620718703852" duration="2535000" />
+      <workItem from="1620718703852" duration="5430000" />
     </task>
     <task id="LOCAL-00001" summary="Create new project. &#10;add gulp, and basic folders and files">
       <created>1619354942580</created>
@@ -210,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620718823798</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add new page 'privacy/policy'">
+      <created>1620721397493</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1620721397494</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,6 +246,7 @@
     <MESSAGE value="add 'footer'" />
     <MESSAGE value="create modal window" />
     <MESSAGE value="add new page 'News / blog'" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new page 'News / blog'" />
+    <MESSAGE value="add new page 'privacy/policy'" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new page 'privacy/policy'" />
   </component>
 </project>
