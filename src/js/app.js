@@ -1,0 +1,1 @@
+let intro = $('#intro');let header = $('#header');let introH = intro.innerHeight();$(window).on('scroll', function() {  // this обращается в window.  let scrollTop = $(this).scrollTop();  if(scrollTop >= introH){    header.addClass('header--dark')  } else {    header.removeClass('header--dark')  }})
